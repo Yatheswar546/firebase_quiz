@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# firebase_quiz
+>>>>>>> 4cc7fd5c41e05e9a3e84778edb28040af8a96439
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
